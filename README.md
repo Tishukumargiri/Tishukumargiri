@@ -1,6 +1,5 @@
 # 💫 About Me:
-👨‍💻 I’m currently working on<br>Python projects & DSA practice<br>🤝 I’m looking to collaborate on<br>Beginner-friendly open source projects & hackathons<br>💡 I’m looking for help with<br>DSA improvement & placement preparation<br>🌱 I’m currently learning<br>Python, Data Structures & Algorithms, Machine Learning basics<br>💬 Ask me about<br>Python basics, coding journey, beginner roadmap<br>⚡ Fun fact<br>I can stay 5+ hours coding when I get focused 😄
-
+Software Developer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BGgK1pb2VTRKPPg5z5ZL7Mw%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tishukumargiri@gmail.com) 
